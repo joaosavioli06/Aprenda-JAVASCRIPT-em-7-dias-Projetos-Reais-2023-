@@ -1,5 +1,5 @@
 # Aprenda JAVASCRIPT em 7 dias + Projetos Reais (2023)
-Comprei este curso com o objetivo de definitvamente aprender mais sobre JavaScript, e adquirir habilidades nesta linguagem tão utiliza hoje em dia. Irei postar todos os algoritmos, projetos e trechos de códigos desenvolvidos com o auxílio do curso.
+Comprei este curso com o objetivo de definitvamente aprender mais sobre JavaScript, e adquirir habilidades nesta linguagem tão utilizada hoje em dia. Irei postar todos os algoritmos, projetos e trechos de códigos desenvolvidos com o auxílio do curso.
 
 ## Seções do Curso
 O curso contém 9 sessões / módulos, no qual o último é de agradecimento. Este curso é separado em dias, com o objetivo de conseguir assistir todas as aulas de um módulo, em apenas um dia.
