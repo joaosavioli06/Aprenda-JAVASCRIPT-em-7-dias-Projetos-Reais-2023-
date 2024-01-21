@@ -13,5 +13,5 @@ function outcome () {
         total = num1 / num2
     }
 
-    document.getElementById('resultArea').innerHTML = 'Resultado: ' + String(total)
+    document.getElementById('resultArea').innerHTML = 'Result: ' + String(total)
 }
