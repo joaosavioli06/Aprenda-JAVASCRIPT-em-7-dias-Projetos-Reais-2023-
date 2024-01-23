@@ -10,7 +10,10 @@ function suaConta () {
     let gorjeta = document.getElementById('tipInput').value
     let valor = document.getElementById('splitInput').value
      
+    let valorGorjeta = conta * (gorjeta / 100)
+    let contaTotal = conta + valorGorjeta
 
+    
 }
 
 
