@@ -14,9 +14,9 @@ function howMany() {
     document.getElementById('splitValue').innerText = numPessoas + ' Pessoas'
 }
 
-
 function casas(num){
-    return num.toFixed(2)
+    num = num.toFixed(2) 
+    return 'R$ ' + num
 }
 
 function suaConta () {
@@ -30,10 +30,10 @@ function suaConta () {
 
 
     document.getElementById('tipPercent').innerText = gorjeta + ' %'
-    document.getElementById('tipValue').innerText = 'R$ ' + casas(valorGorjeta)
+    document.getElementById('tipValue').innerText = casas(valorGorjeta)
     document.getElementById('totalWithTip').innerText = 'R$ ' + contaTotal
     document.getElementById('splitInput').innerText = howMany(splitValue)
-    document.getElementById('billEach').innerText = 'R$ ' + casas(gorjetaTotal)
+    document.getElementById('billEach').innerText = casas(gorjetaTotal)
     
 }
 
